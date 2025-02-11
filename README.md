@@ -65,8 +65,8 @@ This is an automated README generator.
 
 ### Screenshot:
 
-![Readme File Preview](./Images/Readme%20Pre.png)
-![Node JS Scripts in Terminal](./Images/node%20Scripts.png)
+![Readme File Preview](./Images%20&%20video%20copy%202/Readme%20Pre.png)
+![Node JS Scripts in Terminal](./Images%20&%20video%20copy%202/node%20Scripts.png)
 
 ## Credits
 
@@ -81,9 +81,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Badges
 
-![GitHub repo size](https://img.shields.io/github/repo-size/lunahoushmand16/Dev-README-Generator)
-![GitHub contributors](https://img.shields.io/github/contributors/lunahoushmand16/Dev-README-Generator)
-![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/Dev-README-Generator?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/lunahoushmand16/DevPro-Readme-Generator)
+![GitHub contributors](https://img.shields.io/github/contributors/lunahoushmand16/DevPro-Readme-Generator)
+![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/DevPro-Readme-Generator?style=social)
 
 ## Features
 
@@ -106,4 +106,4 @@ Run the application with node index.js and verify the generated `README.md` file
 
 ## Video
 
-[Watch the demo](./Images%20&%20video/Demo%20of%20Project%20copy.mp4)
+[Watch the demo](./Images%20&%20video%20copy%202/Demo%20of%20Project%20copy.mp4)
