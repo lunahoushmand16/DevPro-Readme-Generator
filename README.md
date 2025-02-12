@@ -63,7 +63,7 @@ This is an automated README generator.
 ...
 ```
 
-### Screenshot:
+### Screenshots:
 
 ![Readme File Preview](./Images%20&%20video%20copy%202/Readme%20Pre.png)
 ![Node JS Scripts in Terminal](./Images%20&%20video%20copy%202/node%20Scripts.png)
