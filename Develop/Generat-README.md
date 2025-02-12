@@ -1,9 +1,9 @@
-# ppp
+# dev pro Readme Generator
 
-![License](https://img.shields.io/badge/License-Apache-2.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-ppp
+Dev-README-Generator is a command-line application that helps developers quickly create a professional README file for their projects.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,23 @@ ppp
 - [Questions](#questions)
 
 ## Installation
-pp
+Clone the repository,Navigate to the project folder, Install dependencies,Run the application,...
 
 ## Usage
-pp
+The application prompts the user for details about their project, such as title, description, installation steps, usage, contributors, license, and more.
 
 ## License
 
-This project is licensed under the Apache-2.0 License.
+This project is licensed under the MIT License.
 
 ## Contributing
-pp
+Read the Read me file
 
 ## Tests
-pp
+Run the application with node index.js and verify the generated README.md file.
 
 ## Questions
 For questions, contact me via:
-- GitHub: [pp](https://github.com/pp)
-- Email: pp
+- GitHub: [lunah16](https://github.com/lunah16)
+- Email: luna@test.com
 
